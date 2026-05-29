@@ -18,7 +18,7 @@ h1 {
 img {
     width: 100%;
     border: solid antiquewhite 5px;
-    border-radius: 50%;
+    border-radius: 50px;
 }
 
 p {
